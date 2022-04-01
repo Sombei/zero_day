@@ -1,1 +1,1 @@
-using vagrant with virtualbox ubuntu image
+uname command
